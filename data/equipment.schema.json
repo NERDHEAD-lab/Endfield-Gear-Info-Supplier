@@ -1,0 +1,105 @@
+{
+  "type": "object",
+  "additionalProperties": {
+    "$ref": "#/definitions/Equipment"
+  },
+  "definitions": {
+    "Equipment": {
+      "description": "Core equipment data structure.",
+      "type": "object",
+      "properties": {
+        "id": {
+          "description": "Item identifier",
+          "type": "string"
+        },
+        "rarity": {
+          "$ref": "#/definitions/RarityType",
+          "description": "Rarity level"
+        },
+        "level": {
+          "description": "Required level",
+          "type": "number"
+        },
+        "gearType": {
+          "description": "Detailed gear type category",
+          "type": "string"
+        },
+        "set": {
+          "description": "Set name the gear belongs to",
+          "type": "string"
+        },
+        "defense": {
+          "description": "Defense value (Armors only)",
+          "type": "number"
+        },
+        "stats": {
+          "description": "Primary stats",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Stat"
+          }
+        },
+        "effects": {
+          "description": "Special effects/passives",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Effect"
+          }
+        },
+        "imgUrl": {
+          "description": "Direct URL to source image",
+          "type": "string"
+        }
+      },
+      "required": [
+        "effects",
+        "gearType",
+        "id",
+        "imgUrl",
+        "level",
+        "rarity",
+        "set",
+        "stats"
+      ]
+    },
+    "RarityType": {
+      "description": "Rarity levels as named strings.",
+      "type": "string"
+    },
+    "Stat": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string"
+        },
+        "value": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "type",
+        "value"
+      ]
+    },
+    "Effect": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string"
+        },
+        "value": {
+          "type": "number"
+        },
+        "isPercentage": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "isPercentage",
+        "type",
+        "value"
+      ]
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

@@ -1,0 +1,3645 @@
+{
+  "BONEKRUSHA_FIGURINE": {
+    "id": "BONEKRUSHA_FIGURINE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf4141855c182ecdc1a6.png"
+  },
+  "BONEKRUSHA_MASK_T1": {
+    "id": "BONEKRUSHA_MASK_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      },
+      {
+        "type": "AGILITY",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 10.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcfbcba9a40b68bcda56a.png"
+  },
+  "BONEKRUSHA_MASK": {
+    "id": "BONEKRUSHA_MASK",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      },
+      {
+        "type": "AGILITY",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "DMG_BONUS_VS._STAGGERED",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcfe3d09e72e95f958ba1.png"
+  },
+  "BONEKRUSHA_PONCHO_T1": {
+    "id": "BONEKRUSHA_PONCHO_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 58
+      },
+      {
+        "type": "WILL",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd035c15709c5bd08bfd8.png"
+  },
+  "BONEKRUSHA_PONCHO": {
+    "id": "BONEKRUSHA_PONCHO",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 58
+      },
+      {
+        "type": "WILL",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd007dd3a6edec975ed91.png"
+  },
+  "BONEKRUSHA_HEAVY_ARMOR_T1": {
+    "id": "BONEKRUSHA_HEAVY_ARMOR_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 58
+      },
+      {
+        "type": "AGILITY",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf70b24c2cc3c2097616.png"
+  },
+  "BONEKRUSHA_HEAVY_ARMOR": {
+    "id": "BONEKRUSHA_HEAVY_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 87
+      },
+      {
+        "type": "INTELLECT",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf9729caab7ab1be2416.png"
+  },
+  "THERTECH_STABILIZER": {
+    "id": "THERTECH_STABILIZER",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da7e4484c700e816d217d.png"
+  },
+  "THERTECH_ANALYSIS_BAND": {
+    "id": "THERTECH_ANALYSIS_BAND",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da80be3acca11e53da620.png"
+  },
+  "THERTECH_GLOVES": {
+    "id": "THERTECH_GLOVES",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da82922b3d4859079cca9.png"
+  },
+  "THERTECH_PLATING": {
+    "id": "THERTECH_PLATING",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da848dcdae0e84e9869a9.png"
+  },
+  "LYNX_AEGIS_INJECTOR": {
+    "id": "LYNX_AEGIS_INJECTOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "WILL",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd73465ffe70e9535fabe.png"
+  },
+  "LYNX_SLAB": {
+    "id": "LYNX_SLAB",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "MAIN_ATTRIBUTE",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd8178230f1b03cc50a1e.png"
+  },
+  "LYNX_CONNECTOR_T1": {
+    "id": "LYNX_CONNECTOR_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd75c7a9d81effdbeee00.png"
+  },
+  "LYNX_CONNECTOR": {
+    "id": "LYNX_CONNECTOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 17.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd77a479fef709c2c3219.png"
+  },
+  "LYNX_GAUNTLETS": {
+    "id": "LYNX_GAUNTLETS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 43
+      },
+      {
+        "type": "WILL",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 17.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7a8bc25979e22692621.png"
+  },
+  "LYNX_GLOVES": {
+    "id": "LYNX_GLOVES",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 65
+      },
+      {
+        "type": "WILL",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 20.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7d6dcdae0e84e9869b1.png"
+  },
+  "LYNX_CUIRASS": {
+    "id": "LYNX_CUIRASS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 58
+      },
+      {
+        "type": "WILL",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 10.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7925086e19cbe3e0e8f.png"
+  },
+  "LYNX_HEAVY_ARMOR": {
+    "id": "LYNX_HEAVY_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "LYNX",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 87
+      },
+      {
+        "type": "WILL",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 10.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd7f9a1c4dd69df7d69e3.png"
+  },
+  "SWORDMANCER_FLINT": {
+    "id": "SWORDMANCER_FLINT",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Swordmancer",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      },
+      {
+        "type": "AGILITY",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "PHYSICAL_DMG_BONUS",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df160a4537379deaf3479.png"
+  },
+  "SWORDMANCER_TAC_FISTS": {
+    "id": "SWORDMANCER_TAC_FISTS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Swordmancer",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 43
+      },
+      {
+        "type": "AGILITY",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_DMG_BONUS",
+        "value": 43.1,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df20d519331a97920f802.png"
+  },
+  "SWORDMANCER_TAC_GAUNTLETS": {
+    "id": "SWORDMANCER_TAC_GAUNTLETS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Swordmancer",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 65
+      },
+      {
+        "type": "WILL",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "PHYSICAL_DMG_BONUS",
+        "value": 19.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df268816a3c0f65fe8a9f.png"
+  },
+  "SWORDMANCER_HEAVY_ARMOR": {
+    "id": "SWORDMANCER_HEAVY_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Swordmancer",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 58
+      },
+      {
+        "type": "AGILITY",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 20,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696df191859d9d5c90cf7641.png"
+  },
+  "BONEKRUSHA_FIGURINE_T1": {
+    "id": "BONEKRUSHA_FIGURINE_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Bonekrusha",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dcf0b22b3d4859079ccae.png"
+  },
+  "PULSER_LABS_DISRUPTOR_SUIT": {
+    "id": "PULSER_LABS_DISRUPTOR_SUIT",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Pulser Labs",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 87
+      },
+      {
+        "type": "WILL",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 20,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df0d5f47b48c6aa787a15.png"
+  },
+  "TYPE_50_YINGLUNG_HEAVY_ARMOR": {
+    "id": "TYPE_50_YINGLUNG_HEAVY_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Type 50 Yinglung",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 87
+      },
+      {
+        "type": "WILL",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "PHYSICAL_DMG_BONUS",
+        "value": 11.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deadf8230f1b03cc50a25.png"
+  },
+  "REDEEMER_TAG": {
+    "id": "REDEEMER_TAG",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Redeemer Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 17.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd2a6ee53304b0008b540.png"
+  },
+  "REDEEMER_TAG_T1": {
+    "id": "REDEEMER_TAG_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Redeemer Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 43.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd356a3dc39acc046930e.png"
+  },
+  "REDEEMER_SEAL": {
+    "id": "REDEEMER_SEAL",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Redeemer Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 25.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd39a3aee85a90709d6da.png"
+  },
+  "REDEEMER_SEAL_T1": {
+    "id": "REDEEMER_SEAL_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Redeemer Gear Pack",
+    "stats": [
+      {
+        "type": "WILL",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 10.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd3cd303281de3f074f86.png"
+  },
+  "TYPE_50_YINGLUNG_LIGHT_ARMOR": {
+    "id": "TYPE_50_YINGLUNG_LIGHT_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Type 50 Yinglung",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 58
+      },
+      {
+        "type": "WILL",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "ALL_SKILL_DMG_DEALT_BONUS",
+        "value": 13.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deb8f29caab7ab1be241d.png"
+  },
+  "TYPE_50_YINGLUNG_GLOVES_T1": {
+    "id": "TYPE_50_YINGLUNG_GLOVES_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Type 50 Yinglung",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 43
+      },
+      {
+        "type": "WILL",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 34.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dea3429caab7ab1be241c.png"
+  },
+  "TYPE_50_YINGLUNG_RADAR": {
+    "id": "TYPE_50_YINGLUNG_RADAR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Type 50 Yinglung",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "PHYSICAL_DMG_BONUS",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696debb31d54a250d5f4517b.png"
+  },
+  "TYPE_50_YINGLUNG_KNIFE": {
+    "id": "TYPE_50_YINGLUNG_KNIFE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Type 50 Yinglung",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deb64a468ebd613856658.png"
+  },
+  "TYPE_50_YINGLUNG_KNIFE_T1": {
+    "id": "TYPE_50_YINGLUNG_KNIFE_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Type 50 Yinglung",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      },
+      {
+        "type": "INTELLECT",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "ALL_SKILL_DMG_DEALT_BONUS",
+        "value": 27.6,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696deb1147aad8c833daeea0.png"
+  },
+  "PULSER_LABS_GLOVES": {
+    "id": "PULSER_LABS_GLOVES",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Pulser Labs",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 43
+      },
+      {
+        "type": "WILL",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRYO_AND_ELECTRIC_DMG_DEALT_BONUS",
+        "value": 19.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df0f64b089c6bf87606f6.png"
+  },
+  "TIDE_FALL_LIGHT_ARMOR": {
+    "id": "TIDE_FALL_LIGHT_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Tide Surge",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 58
+      },
+      {
+        "type": "INTELLECT",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dedd26c326a83dea2eada.png"
+  },
+  "TIDE_SURGE_GAUNTLETS": {
+    "id": "TIDE_SURGE_GAUNTLETS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Tide Surge",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 65
+      },
+      {
+        "type": "WILL",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRYO_AND_ELECTRIC_DMG",
+        "value": 19.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dee1d303281de3f074f8c.png"
+  },
+  "PULSER_LABS_CALIBRATOR": {
+    "id": "PULSER_LABS_CALIBRATOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Pulser Labs",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 41
+      },
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 41
+      }
+    ],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df112433a5f03544128e4.png"
+  },
+  "ETERNAL_XIRANITE_AUXILIARY_ARM": {
+    "id": "ETERNAL_XIRANITE_AUXILIARY_ARM",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd3067a9d81effdbeedfe.png"
+  },
+  "ETERNAL_XIRANITE_POWER_CORE_T1": {
+    "id": "ETERNAL_XIRANITE_POWER_CORE_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Eternal Xiranite",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd35f6c326a83dea2ead4.png"
+  },
+  "MORDVOLT_RESISTANT_BATTERY_T1": {
+    "id": "MORDVOLT_RESISTANT_BATTERY_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696defa5682c1955b8638199.png"
+  },
+  "ETERNAL_XIRANITE_POWER_CORE": {
+    "id": "ETERNAL_XIRANITE_POWER_CORE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Eternal Xiranite",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      },
+      {
+        "type": "INTELLECT",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 24.6,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd37cc9b3cd796e6b9019.png"
+  },
+  "MORDVOLT_RESISTANT_WRENCH_T1": {
+    "id": "MORDVOLT_RESISTANT_WRENCH_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df07a7c0413b3124ca55d.png"
+  },
+  "ETERNAL_XIRANITE_GLOVES_T1": {
+    "id": "ETERNAL_XIRANITE_GLOVES_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Eternal Xiranite",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 65
+      },
+      {
+        "type": "WILL",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 20.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd326dd3a6edec975ed93.png"
+  },
+  "MORDVOLT_RESISTANT_GLOVES_T1": {
+    "id": "MORDVOLT_RESISTANT_GLOVES_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Mordvolt Resistant",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 30
+      },
+      {
+        "type": "WILL",
+        "value": 46
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deff522b3d4859079ccb6.png"
+  },
+  "ETERNAL_XIRANITE_GLOVES": {
+    "id": "ETERNAL_XIRANITE_GLOVES",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Eternal Xiranite",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 43
+      },
+      {
+        "type": "INTELLECT",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 20.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd342a3dc39acc046930d.png"
+  },
+  "MORDVOLT_RESISTANT_VEST_T1": {
+    "id": "MORDVOLT_RESISTANT_VEST_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Mordvolt Resistant",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 41
+      },
+      {
+        "type": "WILL",
+        "value": 61
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df039c15709c5bd08bfde.png"
+  },
+  "ETERNAL_XIRANITE_ARMOR": {
+    "id": "ETERNAL_XIRANITE_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Eternal Xiranite",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 58
+      },
+      {
+        "type": "WILL",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 20,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd2c74d84f24c1e9557c5.png"
+  },
+  "MORDVOLT_INSULATION_BATTERY_T1": {
+    "id": "MORDVOLT_INSULATION_BATTERY_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deca2c15709c5bd08bfdd.png"
+  },
+  "TURBID_CUTTING_TORCH": {
+    "id": "TURBID_CUTTING_TORCH",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Tide Surge",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      },
+      {
+        "type": "INTELLECT",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "BASIC_ATTACK_DMG_BONUS",
+        "value": 27.6,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dee496fc80a6e96441e6d.png"
+  },
+  "HANGING_RIVER_O2_TUBE": {
+    "id": "HANGING_RIVER_O2_TUBE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Tide Surge",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRYO_AND_ELECTRIC_DMG",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ded29d09866eeaf56a8f3.png"
+  },
+  "MORDVOLT_INSULATION_WRENCH_T2": {
+    "id": "MORDVOLT_INSULATION_WRENCH_T2",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deeda65ffe70e9535fac2.png"
+  },
+  "MORDVOLT_INSULATION_GLOVES_T1": {
+    "id": "MORDVOLT_INSULATION_GLOVES_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 30
+      },
+      {
+        "type": "INTELLECT",
+        "value": 46
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696decfbdcdae0e84e9869b4.png"
+  },
+  "MORDVOLT_INSULATION_VEST_T1": {
+    "id": "MORDVOLT_INSULATION_VEST_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 41
+      },
+      {
+        "type": "INTELLECT",
+        "value": 61
+      }
+    ],
+    "effects": [
+      {
+        "type": "BASIC_ATTACK_DMG_BONUS",
+        "value": 9.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696ded490920b30f43778da6.png"
+  },
+  "MORDVOLT_INSULATION_VEST_T2": {
+    "id": "MORDVOLT_INSULATION_VEST_T2",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 61
+      },
+      {
+        "type": "WILL",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696ded764e40f4ca8347a4f7.png"
+  },
+  "ROVING_MSGR_GYRO_T1": {
+    "id": "ROVING_MSGR_GYRO_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696e0bcae2418a3fd9e29386.png"
+  },
+  "ROVING_MSGR_FLASHLIGHT_T1": {
+    "id": "ROVING_MSGR_FLASHLIGHT_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df1ac5f36488577aae7a3.png"
+  },
+  "ROVING_MSGR_FLASHLIGHT_T2": {
+    "id": "ROVING_MSGR_FLASHLIGHT_T2",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df1c68a63ab649db93f91.png"
+  },
+  "ROVING_MSGR_FISTS_T1": {
+    "id": "ROVING_MSGR_FISTS_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Roving MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 30
+      },
+      {
+        "type": "AGILITY",
+        "value": 46
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df1de479fef709c2c321b.png"
+  },
+  "ROVING_MSGR_JACKET_T1": {
+    "id": "ROVING_MSGR_JACKET_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Roving MSGR",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 61
+      },
+      {
+        "type": "INTELLECT",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df20341855c182ecdc1aa.png"
+  },
+  "ARMORED_MSGR_GYRO_T1": {
+    "id": "ARMORED_MSGR_GYRO_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 23
+      },
+      {
+        "type": "WILL",
+        "value": 15
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dada15f36488577aae79b.png"
+  },
+  "ARMORED_MSGR_FLASHLIGHT_T1": {
+    "id": "ARMORED_MSGR_FLASHLIGHT_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 23
+      },
+      {
+        "type": "AGILITY",
+        "value": 15
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 7.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dab6d303281de3f074f84.png"
+  },
+  "ARMORED_MSGR_GLOVES_T1": {
+    "id": "ARMORED_MSGR_GLOVES_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 46
+      },
+      {
+        "type": "AGILITY",
+        "value": 30
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 12.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dabfbdcdae0e84e9869aa.png"
+  },
+  "FRONTIERS_ARMOR": {
+    "id": "FRONTIERS_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 87
+      },
+      {
+        "type": "INTELLECT",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_DMG_BONUS",
+        "value": 25.9,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd444433a5f03544128e0.png"
+  },
+  "ARMORED_MSGR_GLOVES_T2": {
+    "id": "ARMORED_MSGR_GLOVES_T2",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 46
+      },
+      {
+        "type": "AGILITY",
+        "value": 30
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 24.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dad10a468ebd61385664f.png"
+  },
+  "FRONTIERS_ARMOR_T1": {
+    "id": "FRONTIERS_ARMOR_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 87
+      },
+      {
+        "type": "AGILITY",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696e468bdd3a6edec975edab.png"
+  },
+  "ARMORED_MSGR_JACKET_T1": {
+    "id": "ARMORED_MSGR_JACKET_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 61
+      },
+      {
+        "type": "WILL",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dae14e9a3e4b7c53d5bcd.png"
+  },
+  "FRONTIERS_ARMOR_T2": {
+    "id": "FRONTIERS_ARMOR_T2",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 87
+      },
+      {
+        "type": "INTELLECT",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd3f1a4537379deaf3474.png"
+  },
+  "CATASTROPHE_FILTER": {
+    "id": "CATASTROPHE_FILTER",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Catastrophe",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 15
+      },
+      {
+        "type": "WILL",
+        "value": 23
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 29,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd150fb64b62c2836be8f.png"
+  },
+  "FRONTIERS_ARMOR_T3": {
+    "id": "FRONTIERS_ARMOR_T3",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 87
+      },
+      {
+        "type": "INTELLECT",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "SECONDARY_ATTRIBUTE",
+        "value": 10.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd41a8230f1b03cc50a1d.png"
+  },
+  "CATASTROPHE_GAUZE_CARTRIDGE_T1": {
+    "id": "CATASTROPHE_GAUZE_CARTRIDGE_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Catastrophe",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 23
+      },
+      {
+        "type": "WILL",
+        "value": 15
+      }
+    ],
+    "effects": [
+      {
+        "type": "SUB-ATTR",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd1b2d09866eeaf56a8ee.png"
+  },
+  "FRONTIERS_BLIGHT_RES_GLOVES": {
+    "id": "FRONTIERS_BLIGHT_RES_GLOVES",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 65
+      },
+      {
+        "type": "INTELLECT",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 34.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd494f787d1fc599d9a15.png"
+  },
+  "CATASTROPHE_GAUZE_CARTRIDGE": {
+    "id": "CATASTROPHE_GAUZE_CARTRIDGE",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Catastrophe",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 23
+      },
+      {
+        "type": "INTELLECT",
+        "value": 15
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_DMG_BONUS",
+        "value": 36.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd1db4823bf18f42e7d6e.png"
+  },
+  "FRONTIERS_COMM": {
+    "id": "FRONTIERS_COMM",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "AGILITY",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696e465aef4126b3c2040ce8.png"
+  },
+  "CATASTROPHE_GLOVES": {
+    "id": "CATASTROPHE_GLOVES",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Catastrophe",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 30
+      },
+      {
+        "type": "WILL",
+        "value": 46
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 24.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd201dd3a6edec975ed92.png"
+  },
+  "FRONTIERS_COMM_T1": {
+    "id": "FRONTIERS_COMM_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRYO_AND_ELECTRIC_DMG_DEALT_BONUS",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd4b1682c1955b8638197.png"
+  },
+  "CATASTROPHE_HEAVY_ARMOR_T1": {
+    "id": "CATASTROPHE_HEAVY_ARMOR_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Catastrophe",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 61
+      },
+      {
+        "type": "WILL",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 8.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd229d09866eeaf56a8ef.png"
+  },
+  "FRONTIERS_EXTRA_O2_TUBE": {
+    "id": "FRONTIERS_EXTRA_O2_TUBE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Frontiers",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 32
+      },
+      {
+        "type": "INTELLECT",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "SECONDARY_ATTRIBUTE",
+        "value": 20.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd4d57a9d81effdbeedff.png"
+  },
+  "CATASTROPHE_HEAVY_ARMOR": {
+    "id": "CATASTROPHE_HEAVY_ARMOR",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Catastrophe",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 61
+      },
+      {
+        "type": "INTELLECT",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_DMG_BONUS",
+        "value": 18.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd24b0920b30f43778da3.png"
+  },
+  "HOT_WORK_EXOSKELETON": {
+    "id": "HOT_WORK_EXOSKELETON",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "Hot Work",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 87
+      },
+      {
+        "type": "AGILITY",
+        "value": 58
+      }
+    ],
+    "effects": [
+      {
+        "type": "HEAT_AND_NATURE_DMG_DEALT_BONUS",
+        "value": 11.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd53ef47b48c6aa787a12.png"
+  },
+  "ABURREY_SENSOR_CHIP_T1": {
+    "id": "ABURREY_SENSOR_CHIP_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 15
+      },
+      {
+        "type": "WILL",
+        "value": 23
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 29.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da72641855c182ecdc1a1.png"
+  },
+  "HOT_WORK_GAUNTLETS": {
+    "id": "HOT_WORK_GAUNTLETS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Hot Work",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 43
+      },
+      {
+        "type": "INTELLECT",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "HEAT_AND_NATURE_DMG_DEALT_BONUS",
+        "value": 19.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd565433a5f03544128e1.png"
+  },
+  "ABURREY_SENSOR_CHIP": {
+    "id": "ABURREY_SENSOR_CHIP",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da760e868cec3d8081176.png"
+  },
+  "HOT_WORK_GAUNTLETS_T1": {
+    "id": "HOT_WORK_GAUNTLETS_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "Hot Work",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 43
+      },
+      {
+        "type": "WILL",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "HEAT_AND_NATURE_DMG_DEALT_BONUS",
+        "value": 19.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd596e868cec3d808117d.png"
+  },
+  "ABURREY_FLASHLIGHT": {
+    "id": "ABURREY_FLASHLIGHT",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da5ca479fef709c2c3216.png"
+  },
+  "HOT_WORK_POWER_BANK": {
+    "id": "HOT_WORK_POWER_BANK",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Hot Work",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "AGILITY",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 41,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd5cf62faf24e47c5251d.png"
+  },
+  "ABURREY_AUDITORY_CHIP_T1": {
+    "id": "ABURREY_AUDITORY_CHIP_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 15
+      },
+      {
+        "type": "AGILITY",
+        "value": 23
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 29.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da538a3dc39acc0469307.png"
+  },
+  "HOT_WORK_PYROMETER": {
+    "id": "HOT_WORK_PYROMETER",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Hot Work",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd66012f135f6ddc0c462.png"
+  },
+  "ABURREY_UV_LAMP": {
+    "id": "ABURREY_UV_LAMP",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da7814d84f24c1e9557bd.png"
+  },
+  "HOT_WORK_POWER_CARTRIDGE": {
+    "id": "HOT_WORK_POWER_CARTRIDGE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "Hot Work",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 41,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd63ce2418a3fd9e29380.png"
+  },
+  "ABURREY_AUDITORY_CHIP": {
+    "id": "ABURREY_AUDITORY_CHIP",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "KIT",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 23
+      },
+      {
+        "type": "WILL",
+        "value": 15
+      }
+    ],
+    "effects": [
+      {
+        "type": "DMG_BONUS_VS._STAGGERED",
+        "value": 29.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da5a14823bf18f42e7d69.png"
+  },
+  "MORDVOLT_RESISTANT_BATTERY": {
+    "id": "MORDVOLT_RESISTANT_BATTERY",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Mordvolt Resistant",
+    "stats": [
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696defda1d54a250d5f4517c.png"
+  },
+  "MI_SECURITY_ARMOR": {
+    "id": "MI_SECURITY_ARMOR",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 58
+      },
+      {
+        "type": "AGILITY",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_INTENSITY",
+        "value": 20,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd8ee8230f1b03cc50a1f.png"
+  },
+  "ABURREY_GAUNTLETS": {
+    "id": "ABURREY_GAUNTLETS",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 46
+      },
+      {
+        "type": "AGILITY",
+        "value": 30
+      }
+    ],
+    "effects": [
+      {
+        "type": "DMG_BONUS_VS._STAGGERED",
+        "value": 24.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da620859d9d5c90cf7637.png"
+  },
+  "MORDVOLT_RESISTANT_WRENCH": {
+    "id": "MORDVOLT_RESISTANT_WRENCH",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Mordvolt Resistant",
+    "stats": [
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696defbff787d1fc599d9a1a.png"
+  },
+  "MI_SECURITY_OVERALLS": {
+    "id": "MI_SECURITY_OVERALLS",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "ARMOR",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 58
+      },
+      {
+        "type": "INTELLECT",
+        "value": 87
+      }
+    ],
+    "effects": [
+      {
+        "type": "BASIC_ATTACK_DMG_BONUS",
+        "value": 13.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7887973031859/696e36416c326a83dea2eaef.png"
+  },
+  "ABURREY_LIGHT_ARMOR_T1": {
+    "id": "ABURREY_LIGHT_ARMOR_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 41
+      },
+      {
+        "type": "WILL",
+        "value": 61
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da6a24b089c6bf87606ec.png"
+  },
+  "MORDVOLT_RESISTANT_GLOVES": {
+    "id": "MORDVOLT_RESISTANT_GLOVES",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "GLOVES",
+    "set": "Mordvolt Resistant",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 22
+      },
+      {
+        "type": "WILL",
+        "value": 33
+      }
+    ],
+    "effects": [
+      {
+        "type": "TREATMENT_BONUS",
+        "value": 8.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df015433a5f03544128e3.png"
+  },
+  "MI_SECURITY_OVERALLS_T1": {
+    "id": "MI_SECURITY_OVERALLS_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd990c4a7d14c7025c1e4.png"
+  },
+  "ABURREY_LIGHT_ARMOR": {
+    "id": "ABURREY_LIGHT_ARMOR",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 41
+      },
+      {
+        "type": "INTELLECT",
+        "value": 61
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 8.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da6d2ba9a40b68bcda564.png"
+  },
+  "ABURREY_HEAVY_ARMOR_T1": {
+    "id": "ABURREY_HEAVY_ARMOR_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 41
+      },
+      {
+        "type": "AGILITY",
+        "value": 61
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 14.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da65ba4537379deaf3470.png"
+  },
+  "MORDVOLT_RESISTANT_VEST": {
+    "id": "MORDVOLT_RESISTANT_VEST",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "ARMOR",
+    "set": "Mordvolt Resistant",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 29
+      },
+      {
+        "type": "WILL",
+        "value": 44
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df05c816a3c0f65fe8a9e.png"
+  },
+  "MI_SECURITY_OVERALLS_T2": {
+    "id": "MI_SECURITY_OVERALLS_T2",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd9b062faf24e47c5251e.png"
+  },
+  "ABURREY_HEAVY_ARMOR": {
+    "id": "ABURREY_HEAVY_ARMOR",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Aburrey's Legacy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 61
+      },
+      {
+        "type": "AGILITY",
+        "value": 41
+      }
+    ],
+    "effects": [
+      {
+        "type": "ALL_SKILL_DMG",
+        "value": 9.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da67ad09866eeaf56a8e7.png"
+  },
+  "MI_SECURITY_GLOVES": {
+    "id": "MI_SECURITY_GLOVES",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 43
+      },
+      {
+        "type": "AGILITY",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 34.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd911859d9d5c90cf763c.png"
+  },
+  "MINER_COMM_T1": {
+    "id": "MINER_COMM_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd6f1e3acca11e53da627.png"
+  },
+  "MORDVOLT_INSULATION_BATTERY": {
+    "id": "MORDVOLT_INSULATION_BATTERY",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 5.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696decd44b089c6bf87606f4.png"
+  },
+  "MINER_DRIVE_WHEEL_T1": {
+    "id": "MINER_DRIVE_WHEEL_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd82412f135f6ddc0c464.png"
+  },
+  "MI_SECURITY_HANDS_PPE": {
+    "id": "MI_SECURITY_HANDS_PPE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "GLOVES",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 43
+      },
+      {
+        "type": "INTELLECT",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "BASIC_ATTACK_DMG_BONUS",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd95cdcdae0e84e9869b2.png"
+  },
+  "MORDVOLT_INSULATION_WRENCH_T1": {
+    "id": "MORDVOLT_INSULATION_WRENCH_T1",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRYO_AND_ELECTRIC_DMG_DEALT_BONUS",
+        "value": 11.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deec047aad8c833daeea1.png"
+  },
+  "MINER_COMPRESSION_CORE_T1": {
+    "id": "MINER_COMPRESSION_CORE_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd7564d84f24c1e9557c7.png"
+  },
+  "MI_SECURITY_HANDS_PPE_T1": {
+    "id": "MI_SECURITY_HANDS_PPE_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd934a1c4dd69df7d69e4.png"
+  },
+  "MINER_TURBINE_T1": {
+    "id": "MINER_TURBINE_T1",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddbd77a9d81effdbeee01.png"
+  },
+  "MORDVOLT_INSULATION_WRENCH": {
+    "id": "MORDVOLT_INSULATION_WRENCH",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deefea1c4dd69df7d69e7.png"
+  },
+  "MI_SECURITY_ARMBAND": {
+    "id": "MI_SECURITY_ARMBAND",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRYO_AND_ELECTRIC_DMG_DEALT_BONUS",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd8c8303281de3f074f88.png"
+  },
+  "MINER_FISTS_T1": {
+    "id": "MINER_FISTS_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Miner γ Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 32
+      },
+      {
+        "type": "WILL",
+        "value": 49
+      }
+    ],
+    "effects": [
+      {
+        "type": "ULTIMATE_GAIN_EFFICIENCY",
+        "value": 15.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd8aa133439cd5afffacc.png"
+  },
+  "MORDVOLT_INSULATION_GLOVES": {
+    "id": "MORDVOLT_INSULATION_GLOVES",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "GLOVES",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 33
+      },
+      {
+        "type": "WILL",
+        "value": 22
+      }
+    ],
+    "effects": [
+      {
+        "type": "ARTS_DMG_DEALT_BONUS",
+        "value": 9.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696ded25519331a97920f801.png"
+  },
+  "MINER_GLOVES_T2": {
+    "id": "MINER_GLOVES_T2",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "GLOVES",
+    "set": "Miner γ Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 32
+      },
+      {
+        "type": "INTELLECT",
+        "value": 49
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 13,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dda56133439cd5afffacd.png"
+  },
+  "MI_SECURITY_SCOPE": {
+    "id": "MI_SECURITY_SCOPE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 32
+      },
+      {
+        "type": "INTELLECT",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dda4be2418a3fd9e29381.png"
+  },
+  "MORDVOLT_INSULATION_VEST": {
+    "id": "MORDVOLT_INSULATION_VEST",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "ARMOR",
+    "set": "Mordvolt Insulation",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 29
+      },
+      {
+        "type": "INTELLECT",
+        "value": 44
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 16,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696deda722b3d4859079ccb4.png"
+  },
+  "MINER_OVERALLS_T1": {
+    "id": "MINER_OVERALLS_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Miner γ Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 43
+      },
+      {
+        "type": "INTELLECT",
+        "value": 65
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 7.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddb3b62faf24e47c52522.png"
+  },
+  "MI_SECURITY_TOOLKIT": {
+    "id": "MI_SECURITY_TOOLKIT",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 21
+      },
+      {
+        "type": "INTELLECT",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 10.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dda7ffb64b62c2836be91.png"
+  },
+  "MINER_ARMOR_T1": {
+    "id": "MINER_ARMOR_T1",
+    "rarity": "Purple",
+    "level": 50,
+    "gearType": "ARMOR",
+    "set": "Miner γ Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 65
+      },
+      {
+        "type": "WILL",
+        "value": 43
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 3.9,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd61729caab7ab1be2418.png"
+  },
+  "MI_SECURITY_PUSH_KNIFE": {
+    "id": "MI_SECURITY_PUSH_KNIFE",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "HEAT_AND_NATURE_DMG_DEALT_BONUS",
+        "value": 23,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dd9f1a3dc39acc046930f.png"
+  },
+  "ROVING_MSGR_GYRO": {
+    "id": "ROVING_MSGR_GYRO",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Roving MSGR",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df2213aee85a90709d6dd.png"
+  },
+  "MI_SECURITY_PUSH_KNIFE_T1": {
+    "id": "MI_SECURITY_PUSH_KNIFE_T1",
+    "rarity": "Gold",
+    "level": 70,
+    "gearType": "KIT",
+    "set": "MI Security",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 21
+      },
+      {
+        "type": "WILL",
+        "value": 32
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 41.4,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dda15303281de3f074f89.png"
+  },
+  "ROVING_MSGR_FLASHLIGHT": {
+    "id": "ROVING_MSGR_FLASHLIGHT",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Roving MSGR",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG",
+        "value": 21,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df23dba9a40b68bcda570.png"
+  },
+  "ROVING_MSGR_FISTS": {
+    "id": "ROVING_MSGR_FISTS",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "GLOVES",
+    "set": "Roving MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 22
+      },
+      {
+        "type": "AGILITY",
+        "value": 33
+      }
+    ],
+    "effects": [
+      {
+        "type": "PHYSICAL_DMG_BONUS",
+        "value": 9.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df25ad09e72e95f958ba5.png"
+  },
+  "ROVING_MSGR_JACKET": {
+    "id": "ROVING_MSGR_JACKET",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "ARMOR",
+    "set": "Roving MSGR",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 44
+      },
+      {
+        "type": "INTELLECT",
+        "value": 29
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 16,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696df281ee53304b0008b546.png"
+  },
+  "ARMORED_MSGR_GYRO": {
+    "id": "ARMORED_MSGR_GYRO",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dadd2133439cd5afffac8.png"
+  },
+  "ARMORED_MSGR_FLASHLIGHT": {
+    "id": "ARMORED_MSGR_FLASHLIGHT",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 21
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 21,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dabcee9a3e4b7c53d5bcc.png"
+  },
+  "ARMORED_MSGR_GLOVES": {
+    "id": "ARMORED_MSGR_GLOVES",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "GLOVES",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 33
+      },
+      {
+        "type": "WILL",
+        "value": 22
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dad66e3acca11e53da621.png"
+  },
+  "ARMORED_MSGR_JACKET": {
+    "id": "ARMORED_MSGR_JACKET",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "ARMOR",
+    "set": "Armored MSGR",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 44
+      },
+      {
+        "type": "AGILITY",
+        "value": 29
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 10.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696dae35d09866eeaf56a8e8.png"
+  },
+  "MINER_COMM": {
+    "id": "MINER_COMM",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Miner β Gear Pack",
+    "stats": [
+      {
+        "type": "WILL",
+        "value": 22
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 22.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd6aec9b3cd796e6b901b.png"
+  },
+  "MINER_COMPRESSION_CORE": {
+    "id": "MINER_COMPRESSION_CORE",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Miner β Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 22
+      }
+    ],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 5.7,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd720507303c4d44a26ce.png"
+  },
+  "MINER_DRIVE_WHEEL": {
+    "id": "MINER_DRIVE_WHEEL",
+    "rarity": "Unknown",
+    "level": 0,
+    "gearType": "Unknown",
+    "set": "",
+    "stats": [],
+    "effects": [],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd801d09e72e95f958ba2.png"
+  },
+  "MINER_TURBINE": {
+    "id": "MINER_TURBINE",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "KIT",
+    "set": "Miner β Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 22
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG",
+        "value": 22.8,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddb84519331a97920f7fe.png"
+  },
+  "MINER_GLOVES_T1": {
+    "id": "MINER_GLOVES_T1",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "GLOVES",
+    "set": "Miner β Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 24
+      },
+      {
+        "type": "INTELLECT",
+        "value": 36
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 19,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dda16682c1955b8638198.png"
+  },
+  "MINER_GAUNTLETS_T1": {
+    "id": "MINER_GAUNTLETS_T1",
+    "rarity": "Blue",
+    "level": 36,
+    "gearType": "GLOVES",
+    "set": "Miner β Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 26
+      },
+      {
+        "type": "WILL",
+        "value": 24
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 9.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd916a4537379deaf3476.png"
+  },
+  "AIC_CERAMIC_PLATE": {
+    "id": "AIC_CERAMIC_PLATE",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "KIT",
+    "set": "AIC Light",
+    "stats": [
+      {
+        "type": "WILL",
+        "value": 16
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 16.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daa87ba9a40b68bcda565.png"
+  },
+  "AIC_LIGHT_PLATE": {
+    "id": "AIC_LIGHT_PLATE",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "KIT",
+    "set": "AIC Light",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 16
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 16.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daacc4d84f24c1e9557be.png"
+  },
+  "AIC_TACTICAL_GLOVES": {
+    "id": "AIC_TACTICAL_GLOVES",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "GLOVES",
+    "set": "AIC Light",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 23
+      },
+      {
+        "type": "INTELLECT",
+        "value": 23
+      }
+    ],
+    "effects": [
+      {
+        "type": "COMBO_SKILL_DMG_BONUS",
+        "value": 13.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daaf162faf24e47c52519.png"
+  },
+  "AIC_LIGHT_ARMOR": {
+    "id": "AIC_LIGHT_ARMOR",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "AIC Light",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 30
+      },
+      {
+        "type": "WILL",
+        "value": 30
+      }
+    ],
+    "effects": [
+      {
+        "type": "BATTLE_SKILL_DMG_BONUS",
+        "value": 8.1,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696daaa5ee53304b0008b539.png"
+  },
+  "AIC_ALLOY_PLATE": {
+    "id": "AIC_ALLOY_PLATE",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "KIT",
+    "set": "AIC Heavy",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 16
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 7.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da8cea468ebd61385664e.png"
+  },
+  "AIC_HEAVY_PLATE": {
+    "id": "AIC_HEAVY_PLATE",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "KIT",
+    "set": "AIC Heavy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 16
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 7.5,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da94be2418a3fd9e29377.png"
+  },
+  "AIC_GAUNTLETS": {
+    "id": "AIC_GAUNTLETS",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "GLOVES",
+    "set": "AIC Heavy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 23
+      },
+      {
+        "type": "WILL",
+        "value": 23
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 6.3,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da8eda4537379deaf3471.png"
+  },
+  "AIC_HEAVY_ARMOR": {
+    "id": "AIC_HEAVY_ARMOR",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "AIC Heavy",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 30
+      },
+      {
+        "type": "AGILITY",
+        "value": 30
+      }
+    ],
+    "effects": [
+      {
+        "type": "FINAL_DMG_REDUCTION",
+        "value": 3.9,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/7040428526148/696da907dd3a6edec975ed8d.png"
+  },
+  "MINER_FISTS": {
+    "id": "MINER_FISTS",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "GLOVES",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 18
+      },
+      {
+        "type": "WILL",
+        "value": 28
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 15,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd863e9a3e4b7c53d5bd0.png"
+  },
+  "MINER_WRISTS": {
+    "id": "MINER_WRISTS",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "GLOVES",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 18
+      },
+      {
+        "type": "AGILITY",
+        "value": 28
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 15,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddd65bc25979e22692622.png"
+  },
+  "MINER_CLEANSUIT": {
+    "id": "MINER_CLEANSUIT",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 25
+      },
+      {
+        "type": "WILL",
+        "value": 37
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 9,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd64f0920b30f43778da4.png"
+  },
+  "MINER_VEST": {
+    "id": "MINER_VEST",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 27
+      },
+      {
+        "type": "INTELLECT",
+        "value": 25
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 9,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696ddc63d09e72e95f958ba3.png"
+  },
+  "PROTOTYPE_HEAVY_ARMOR_T1": {
+    "id": "PROTOTYPE_HEAVY_ARMOR_T1",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "AGILITY",
+        "value": 37
+      },
+      {
+        "type": "WILL",
+        "value": 25
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 11,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dde42e9a3e4b7c53d5bd2.png"
+  },
+  "PROTOTYPE_HEAVY_ARMOR": {
+    "id": "PROTOTYPE_HEAVY_ARMOR",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 37
+      },
+      {
+        "type": "INTELLECT",
+        "value": 25
+      }
+    ],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 11,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dde2129caab7ab1be241a.png"
+  },
+  "EMERGENCY_COMPRESSION_CORE": {
+    "id": "EMERGENCY_COMPRESSION_CORE",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "KIT",
+    "set": "Miner α Gear Pack",
+    "stats": [],
+    "effects": [
+      {
+        "type": "ATTACK",
+        "value": 13.2,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd5b7a468ebd613856654.png"
+  },
+  "EMERGENCY_COMM": {
+    "id": "EMERGENCY_COMM",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "KIT",
+    "set": "Miner α Gear Pack",
+    "stats": [],
+    "effects": [
+      {
+        "type": "CRIT_RATE",
+        "value": 6.6,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd553c15709c5bd08bfd9.png"
+  },
+  "MINER_GLOVES": {
+    "id": "MINER_GLOVES",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "GLOVES",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 20
+      },
+      {
+        "type": "WILL",
+        "value": 13
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 11,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd9967c0413b3124ca558.png"
+  },
+  "MINER_GAUNTLETS": {
+    "id": "MINER_GAUNTLETS",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "GLOVES",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 20
+      },
+      {
+        "type": "AGILITY",
+        "value": 13
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 11,
+        "isPercentage": true
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd8e147aad8c833daee9c.png"
+  },
+  "MINER_OVERALLS": {
+    "id": "MINER_OVERALLS",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 27
+      },
+      {
+        "type": "WILL",
+        "value": 18
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 125,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dda848a63ab649db93f8c.png"
+  },
+  "MINER_ARMOR": {
+    "id": "MINER_ARMOR",
+    "rarity": "Green",
+    "level": 28,
+    "gearType": "ARMOR",
+    "set": "Miner α Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 27
+      },
+      {
+        "type": "INTELLECT",
+        "value": 18
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 125,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd5e2f787d1fc599d9a16.png"
+  },
+  "BASIC_GLOVES": {
+    "id": "BASIC_GLOVES",
+    "rarity": "White",
+    "level": 10,
+    "gearType": "GLOVES",
+    "set": "Basic Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 11
+      },
+      {
+        "type": "WILL",
+        "value": 7
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 77,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd4e59b232958b8d4d197.png"
+  },
+  "BASIC_GAUNTLETS": {
+    "id": "BASIC_GAUNTLETS",
+    "rarity": "White",
+    "level": 10,
+    "gearType": "GLOVES",
+    "set": "Basic Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 11
+      },
+      {
+        "type": "AGILITY",
+        "value": 7
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 77,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd46d6fc80a6e96441e69.png"
+  },
+  "BASIC_PPE": {
+    "id": "BASIC_PPE",
+    "rarity": "White",
+    "level": 10,
+    "gearType": "ARMOR",
+    "set": "Basic Gear Pack",
+    "stats": [
+      {
+        "type": "INTELLECT",
+        "value": 15
+      },
+      {
+        "type": "WILL",
+        "value": 10
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 46,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd5284823bf18f42e7d71.png"
+  },
+  "BASIC_ARMOR": {
+    "id": "BASIC_ARMOR",
+    "rarity": "White",
+    "level": 10,
+    "gearType": "ARMOR",
+    "set": "Basic Gear Pack",
+    "stats": [
+      {
+        "type": "STRENGTH",
+        "value": 15
+      },
+      {
+        "type": "AGILITY",
+        "value": 10
+      }
+    ],
+    "effects": [
+      {
+        "type": "HP",
+        "value": 46,
+        "isPercentage": false
+      }
+    ],
+    "imgUrl": "https://static.skport.com/image/rm42wiki/20260119/2452982252316/696dd41f9b232958b8d4d196.png"
+  }
+}

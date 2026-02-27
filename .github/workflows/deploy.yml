@@ -1,0 +1,91 @@
+name: Build and Validate Data
+
+on:
+  # 수동 트리거 (데이터 수집 시작)
+  workflow_dispatch:
+  # PR 생성 및 업데이트 시 검증 실행
+  pull_request:
+    branches: [main]
+
+jobs:
+  process-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Install Chromium for Puppeteer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
+      - name: Run Build (Scraping)
+        if: github.event_name == 'workflow_dispatch'
+        run: npm run build
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
+      - name: Run Validation
+        id: validate
+        continue-on-error: true
+        run: npm run validate
+
+      - name: Handle Success & Auto-Commit to Main
+        if: github.event_name == 'workflow_dispatch' && steps.validate.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git commit -m "chore(data): auto-update equipment data [skip ci]"
+            git push origin main
+          else
+            echo "No changes detected."
+          fi
+
+      - name: Handle Failure & Create PR
+        if: github.event_name == 'workflow_dispatch' && steps.validate.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if [ -n "$(git status --porcelain data/)" ]; then
+            BRANCH_NAME="data-patch/$(date +'%Y%m%d-%H%M')"
+            git checkout -b "$BRANCH_NAME"
+            git commit -m "docs(data): incomplete data detected, requesting details"
+            git push origin "$BRANCH_NAME"
+            gh pr create --title "⚠️ 장비 상세 정보 보완 필요" --body-file report.md --base main --head "$BRANCH_NAME"
+          else
+            echo "Validation failed but no new data changes to push."
+            exit 1
+          fi
+
+      - name: PR Validation Check
+        if: github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # PR에서 검증 실패 시 리포트를 본문에 업데이트하고 종료
+          if [ "${{ steps.validate.outcome }}" == "failure" ]; then
+            gh pr edit ${{ github.event.number }} --body-file report.md
+            echo "Validation failed. Please check the PR body for details."
+            exit 1
+          fi
+          echo "Validation passed!"
