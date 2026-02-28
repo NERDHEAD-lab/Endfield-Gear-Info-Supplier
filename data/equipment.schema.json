@@ -21,8 +21,8 @@
           "type": "number"
         },
         "gearType": {
-          "description": "Detailed gear type category",
-          "type": "string"
+          "$ref": "#/definitions/GearType",
+          "description": "Detailed gear type category"
         },
         "set": {
           "description": "Set name the gear belongs to",
@@ -64,6 +64,24 @@
     },
     "RarityType": {
       "description": "Rarity levels as named strings.",
+      "enum": [
+        "Blue",
+        "Gold",
+        "Green",
+        "Purple",
+        "Unknown",
+        "White"
+      ],
+      "type": "string"
+    },
+    "GearType": {
+      "description": "Restricted gear type categories.",
+      "enum": [
+        "ARMOR",
+        "GLOVES",
+        "KIT",
+        "Unknown"
+      ],
       "type": "string"
     },
     "Stat": {

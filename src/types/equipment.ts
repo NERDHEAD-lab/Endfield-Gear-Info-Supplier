@@ -1,12 +1,10 @@
 /**
  * Stat categories (4 core attributes).
- * @TJS-type string
  */
 export type StatType = "STRENGTH" | "AGILITY" | "INTELLECT" | "WILL";
 
 /**
  * Effect types collected from legacy samples (23 types).
- * @TJS-type string
  */
 export type EffectType =
   | "ALL_SKILL_DMG"
@@ -48,7 +46,6 @@ export interface Effect {
 
 /**
  * Rarity levels as named strings.
- * @TJS-type string
  */
 export type RarityType =
   | "Gold"
@@ -60,7 +57,6 @@ export type RarityType =
 
 /**
  * Restricted gear type categories.
- * @TJS-type string
  */
 export type GearType = "ARMOR" | "GLOVES" | "KIT" | "Unknown";
 

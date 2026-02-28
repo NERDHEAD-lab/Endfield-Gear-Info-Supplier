@@ -11,7 +11,32 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 const EQUIPMENT_FILE = path.join(DATA_DIR, "equipment.json");
 const LOCALES_DIR = path.join(__dirname, "..", "locales");
 const KO_LOCALE_FILE = path.join(LOCALES_DIR, "ko", "equipment-name.json");
+const SCHEMA_FILE = path.join(__dirname, "types", "equipment.ts"); // For dynamic parsing
 const REPORT_FILE = path.join(__dirname, "..", "report.md");
+
+/**
+ * Dynamically extract valid IDs from src/types/equipment.ts
+ */
+function extractSchemaIds(schemaContent: string): any {
+  const extract = (typeName: string) => {
+    const regex = new RegExp(`export type ${typeName}\\s*=\\s*([^;]+);`);
+    const match = schemaContent.match(regex);
+    if (!match) return [];
+
+    // Split by | and clean up quotes/whitespace
+    return match[1]
+      .split("|")
+      .map((id) => id.trim().replace(/^["']|["']$/g, ""))
+      .filter((id) => id !== "");
+  };
+
+  return {
+    StatType: extract("StatType"),
+    GearType: extract("GearType"),
+    RarityType: extract("RarityType"),
+    EffectType: extract("EffectType"),
+  };
+}
 
 /**
  * Validate data integrity and generate a markdown report.
@@ -55,6 +80,8 @@ async function validate() {
   // 2. Validate equipment.json and Type Mappings
   if (existsSync(EQUIPMENT_FILE)) {
     const equipment: EquipmentData = readJsonSync(EQUIPMENT_FILE);
+    const schemaContent = fs.readFileSync(SCHEMA_FILE, "utf-8");
+    const VALID_IDS = extractSchemaIds(schemaContent);
 
     // Load all type maps for all languages
     const typeMaps: Record<string, Record<string, any>> = {};
@@ -95,6 +122,8 @@ async function validate() {
 
       if (!item.gearType || item.gearType === "Unknown") {
         missingFields.push("`gearType` (is Unknown or missing)");
+      } else if (!VALID_IDS.GearType.includes(item.gearType)) {
+        missingFields.push(`\`gearType\` (invalid value: "${item.gearType}")`);
       } else {
         // Check gearType translation
         for (const lang of languages) {
@@ -112,6 +141,9 @@ async function validate() {
         missingFields.push("`stats` (count is not 2)");
       } else {
         for (const stat of item.stats) {
+          if (!VALID_IDS.StatType.includes(stat.type)) {
+            missingFields.push(`\`stat type\` (invalid: "${stat.type}")`);
+          }
           for (const lang of languages) {
             if (!typeMaps[`${lang}:stat`][stat.type]) {
               typeMappingMissing.push(`[${lang}] stat:${stat.type}`);
@@ -126,6 +158,9 @@ async function validate() {
         missingFields.push("`effects` (count is not 1)");
       } else {
         for (const effect of item.effects) {
+          if (!VALID_IDS.EffectType.includes(effect.type)) {
+            missingFields.push(`\`effect type\` (invalid: "${effect.type}")`);
+          }
           for (const lang of languages) {
             if (!typeMaps[`${lang}:effect`][effect.type]) {
               typeMappingMissing.push(`[${lang}] effect:${effect.type}`);
