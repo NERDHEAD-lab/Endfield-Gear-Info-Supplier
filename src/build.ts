@@ -332,6 +332,9 @@ async function runBuilder() {
 
       // 2. Sync equipment.json
       if (!equipment[id]) {
+        console.warn(
+          `[!] New item detected: ${id}. Added to equipment.json with default values.`,
+        );
         equipment[id] = {
           id: id,
           imgUrl: data.img,
@@ -349,6 +352,16 @@ async function runBuilder() {
           equipment[id].rarity = data.rarity;
 
         // name synchronization no longer needed as field is removed
+      }
+    }
+
+    // 3. Warn about items in equipment.json that were not found in this scrape
+    const scrapedIds = new Set(Object.keys(scrapedData));
+    for (const id of Object.keys(equipment)) {
+      if (!scrapedIds.has(id)) {
+        console.warn(
+          `[!] Item in equipment.json not found on wiki: ${id}. It remains in the file but might be deprecated.`,
+        );
       }
     }
 
