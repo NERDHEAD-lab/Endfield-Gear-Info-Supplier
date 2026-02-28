@@ -8,7 +8,8 @@ const __dirname = path.dirname(__filename);
 
 const INDEX_TS = path.join(__dirname, "lagacy-sample", "index.ts");
 const SCHEMA_TS = path.join(__dirname, "..", "src", "types", "equipment.ts");
-const LOCALES_DIR = path.join(__dirname, "..", "locales");
+const DATA_DIR = path.join(__dirname, "..", "data");
+const LOCALES_DIR = path.join(DATA_DIR, "locales");
 
 /**
  * Dynamically extract valid IDs from src/types/equipment.ts

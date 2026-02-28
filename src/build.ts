@@ -32,7 +32,7 @@ const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const EQUIPMENT_FILE = path.join(DATA_DIR, "equipment.json");
-const LOCALES_DIR = path.join(__dirname, "..", "locales");
+const LOCALES_DIR = path.join(DATA_DIR, "locales");
 const EN_LOCALE_FILE = path.join(LOCALES_DIR, "en", "equipment-name.json");
 const KO_LOCALE_FILE = path.join(LOCALES_DIR, "ko", "equipment-name.json");
 
@@ -251,7 +251,7 @@ async function scrapeData() {
       uniqueItems[key] = {
         en_name: item.name_en,
         img: item.img,
-        rarity: RARITY_MAP[item.rarity] || "Unknown",
+        rarity: RARITY_MAP[item.rarity] ?? "Unknown",
       };
     }
   });
@@ -328,7 +328,7 @@ async function runBuilder() {
     for (const [id, data] of Object.entries(scrapedData)) {
       // 1. Sync i18n mapping
       if (!enMap[id]) enMap[id] = data.en_name;
-      if (koMap[id] === undefined) koMap[id] = "";
+      koMap[id] ??= "";
 
       // 2. Sync equipment.json
       if (!equipment[id]) {

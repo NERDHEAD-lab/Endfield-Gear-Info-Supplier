@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.join(__dirname, "..", "data");
 const EQUIPMENT_FILE = path.join(DATA_DIR, "equipment.json");
-const LOCALES_DIR = path.join(__dirname, "..", "locales");
+const LOCALES_DIR = path.join(DATA_DIR, "locales");
 const KO_LOCALE_FILE = path.join(LOCALES_DIR, "ko", "equipment-name.json");
 const SCHEMA_FILE = path.join(__dirname, "types", "equipment.ts"); // For dynamic parsing
 const REPORT_FILE = path.join(__dirname, "..", "report.md");

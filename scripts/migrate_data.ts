@@ -22,7 +22,7 @@ const __dirname = path.dirname(__filename);
 const DATA_DIR = path.join(__dirname, "..", "data");
 const LEGACY_FILE = path.join(__dirname, "lagacy-sample", "equipment.json");
 const EQUIPMENT_FILE = path.join(DATA_DIR, "equipment.json");
-const LOCALES_DIR = path.join(__dirname, "..", "locales");
+const LOCALES_DIR = path.join(DATA_DIR, "locales");
 
 async function migrate() {
   console.log("[*] Starting Precision Data Migration...");
